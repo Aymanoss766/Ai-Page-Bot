@@ -1,7 +1,7 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "AI chatbot project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,7 +18,7 @@
     "node-fetch": "^3.3.2",
     "request": "^2.88.2",
     "winston": "^3.13.0",
-    "uri-js": "^4.4.1"  // إضافة هذه المكتبة
+    "uri-js": "^4.4.1"
   },
   "engines": {
     "node": "20.x"
